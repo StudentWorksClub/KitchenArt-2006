@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "KitchenArt", "KitchenArt.vbproj", "{EE315404-972D-4FAC-A2F6-2613D1F9543C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{EE315404-972D-4FAC-A2F6-2613D1F9543C}.Debug.ActiveCfg = Debug|.NET
+		{EE315404-972D-4FAC-A2F6-2613D1F9543C}.Debug.Build.0 = Debug|.NET
+		{EE315404-972D-4FAC-A2F6-2613D1F9543C}.Release.ActiveCfg = Release|.NET
+		{EE315404-972D-4FAC-A2F6-2613D1F9543C}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
